@@ -7,7 +7,7 @@
 
 DH Blog is a modern, Instagram-inspired blog platform built with React and Material UI. It features a clean, responsive design with a tag-based organization system and markdown content support.
 
-[**Visit the Live Blog**](https://dh-blog-ten.vercel.app/)
+[**Visit the Live Blog**](https://dh-blog-kohl.vercel.app/)
 
 ## 🚀 Features
 
